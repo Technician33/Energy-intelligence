@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pkl
+electricity_prices.csv
+weather.csv
+.env
